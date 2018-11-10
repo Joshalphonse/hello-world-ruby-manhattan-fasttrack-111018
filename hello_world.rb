@@ -3,8 +3,7 @@
 
 
 def add (arg1, arg2)
-  arg1 + arg2 = ans 
-  puts ans
+  arg1 + arg2 
  
 end
 
